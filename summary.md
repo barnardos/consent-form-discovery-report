@@ -7,4 +7,4 @@ The team identified problems with Barnardo's processes for developing consent fo
 
 The team were further aiming to get a useful and usable product out the door, quickly, to make friends and influence people.
 
-A wider iteration of the tool is being scoped that takes into account wider organisational needs and the effect of GDPR. 
+A wider iteration of the tool is being scoped that takes into account wider organisational needs and the effect of changes under new EU regulations - the 	[General Data Protection Regulations](http://www.eugdpr.org/) - from Spring 2018.  
