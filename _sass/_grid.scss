@@ -1,0 +1,133 @@
+
+/*--------------------------------------------------------------
+If no grid support, limit width to 50em and center align
+--------------------------------------------------------------*/
+@supports not (display: grid) {
+	.site {
+		max-width: 50em;
+		margin: 0 auto;
+	}
+}
+
+/*--------------------------------------------------------------
+CSS Grid layout for wider screens, when browser supports grid:
+--------------------------------------------------------------*/
+
+@supports (display: grid) {
+	header {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas:
+		"head-logo head-title"
+		"head-nav head-nav";
+		@include media-query($on-medium) {
+			margin: 20px;
+			grid-template-columns: repeat(6, minmax(auto, 14.2rem));
+			grid-template-areas:
+				"head-title head-nav"
+				"head-logo .";
+			position: fixed;
+        	transition: opacity 0.3s linear;
+		}
+	}
+	.site--title {
+		grid-area: head-title;
+	}
+	.site--title--indicator {
+		position: absolute;
+		right: 0.88rem;
+		bottom: 0.88rem;
+		opacity: 0;
+		transition: opacity 0.3s linear;
+	}
+	header .logo {
+		grid-area: head-logo;
+		background: white;
+		padding: 13px 0 20px 20px;
+		@include media-query($on-medium) {
+			padding: 40px;
+			z-index: 0;
+    		transition: transform 0.3s ease-in-out;
+    	}
+		// grid-row: 2;
+	}
+
+	header nav {
+		grid-area: head-nav;
+		grid-column: span 3;
+	}
+
+	header nav ul {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		margin: 0;
+			height: 100%;
+	}
+
+	header nav ul li {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		height: 100%;
+	}
+	header nav ul li a {
+		text-align: center;
+		height: 100%;
+		display: block;
+		background: white;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1rem;
+		font-weight: 500;
+		color: #1d1d1b;
+		border-left: 1px solid #fafafa;
+		border-bottom: 8px solid transparent;
+	}
+	header nav ul li a.active {
+		border-bottom-color: $brand-color;
+	}
+}
+
+@media screen and (min-width: 40rem) {
+	@supports (display: grid) {
+		
+
+		.site {
+            display: grid;
+            grid-gap: 16px;
+            grid-template-columns: 1fr repeat(10, minmax(auto, 10ch)) 1fr;
+			grid-template-rows: minmax(1em, auto) 1fr auto minmax(1em, auto);
+			padding-top: 14.2rem;
+		}
+
+		.masthead,
+		.colophon {
+            grid-column: span 8;
+            background: #efefef;
+		}
+
+		.main-content {
+            grid-column: 4/10;
+		}
+
+		.twin {
+			grid-column: 2/5;
+			grid-row: 3/4;
+		}
+
+		.twin:last-of-type {
+			grid-column: 5/8;
+        }
+
+		/* TEMP */
+        .main-content {
+            padding-top: 1rem;
+        }
+
+		
+
+	}
+}
+
+

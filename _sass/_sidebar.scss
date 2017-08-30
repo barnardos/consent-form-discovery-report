@@ -1,0 +1,47 @@
+.sidebar {
+    grid-column: 2/4;
+}
+.sidebar--list {
+  line-height: 2;
+  margin: 2rem 0;
+  @include media-query($on-medium) {
+    position: fixed;
+    margin-top: 5.25rem;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    padding: 8px;
+    @include media-query($on-medium) {
+        padding: 0;
+    }
+    a {
+        color: $text-color;
+        font-weight: 200;
+        position: relative;
+    }
+    @include media-query($on-medium) {
+        a.active::before {
+            content: "• ";
+            position: absolute;  
+            left: -1rem;
+            color: $brand-color;
+            font-size: 2rem;
+            line-height: 1;
+            top: -0.6rem;
+        }
+    }
+  }
+}
+.sidebar--title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding-left: 8px;
+    @include media-query($on-medium) {
+        padding-left: 0;
+    }
+}

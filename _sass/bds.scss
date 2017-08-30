@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: "Proxima Nova", Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     48px !default;
+
+$text-color:       #1d1d1b !default;
+$background-color: #f7f8f7 !default;
+$brand-color:      #46631F !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-small:          10em !default;
+$on-medium:        40rem !default;
+$on-large:        60rem !default;
+
+// Use media queries like this:
+// @include media-query($on-medium) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (min-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "grid",
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting",
+  "sidebar",
+  "header",
+  "images",
+  "ui-kit"
+;

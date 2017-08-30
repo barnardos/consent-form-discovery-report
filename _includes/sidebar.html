@@ -1,0 +1,11 @@
+<aside class="sidebar">
+    {% assign cat = page.category %}
+    <nav class="sidebar--list">
+        <h2 class="sidebar--title">{{cat | capitalize}}</h2>
+        <ul>
+        {% for post in site.categories.[cat] %}
+            <li><a href="{{ post.url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.title | capitalize}}</a></li>
+        {% endfor %}
+        </ul>
+    </nav>
+</aside>
