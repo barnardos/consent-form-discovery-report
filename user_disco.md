@@ -18,7 +18,7 @@ title: user research and prioritisation
 - People taking part in research
 - People giving consent on behalf of a child or young person
 
-## Deision:
+## Decision:
 Forgo ‘recruiter’ process personas, for roles people recognise themselves in - e.g.  “as a participation worker”
 https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design 
 
@@ -37,15 +37,15 @@ https://trello.com/b/Xq7VPkqJ/consent-form-usability-testing
 6 x interviews and testing sessions with internal users6 x interviews and testing sessions with internal users
 
 ## Quotes
-*"I don't know who my participants are"
+* "I don't know who my participants are"
 
-‘At the first stage of consent I don’t know who anyone’s name is’
+"At the first stage of consent I don’t know who anyone’s name is"
 
-‘Use language for a 12 year old’
+"Use language for a 12 year old"
 
-‘This will print out a form?’
+"This will print out a form?"
 
-‘We don’t do research’*
+"We don’t do research" *
 
 ## Key commonalities between users:
 
