@@ -14,7 +14,7 @@ This has involved changes to working practices, as well as changes to the overal
 From Old user needs and stories board https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design to https://trello.com/b/6vlAUkPe/product-team-consent-form 
 
 ## Evolution of the tool:
-The [tool](https://consent-form.barnardos.digital) went trough two main iterations in this phase
+The [tool](https://consent-form.barnardos.digital) went through two main iterations in this phase
 
 ### Sprint 0: 
  * Added photos to recording methods
@@ -39,7 +39,6 @@ The [tool](https://consent-form.barnardos.digital) went trough two main iteratio
  * Next of kin details
  * How do we do forwards, backwards, returning to edit and overall navigation
  * Should we be using mandatory fields? 
- * 
  * How do we do ‘other’ in a way which makes the tool more useful without making it too complex 
 
 
