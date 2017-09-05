@@ -33,7 +33,7 @@ The [tool](https://consent-form.barnardos.digital) went through two main iterati
  * Assumption that Barnardo's staff do not need too much prompting around who can consent
  
 
-### Still pending/not taken forward
+### Tweaks that are still pending
  * More details for researchers & add more than 2 people
  * Want to edit the information sheet while seeing it ‘as is’
  * Next of kin details
@@ -43,16 +43,16 @@ The [tool](https://consent-form.barnardos.digital) went through two main iterati
 
 
 ## Further research:
-How much competence regarding Barnardo’s staff knowledge of consent are we assuming?
- * How do we both ask for and define nuanced consent - especially for data and media permissions
- * What is and who is and who sees themselves as gatekeepers?
+
+* How much competence regarding Barnardo’s staff knowledge of consent are we assuming?
+* How do we both ask for and define nuanced consent - especially for data and media permissions
+* What is and who is and who sees themselves as gatekeepers?
  * Can we do fully digital consent (wet signature vs tick box)
- * How do we use the consent builder to standardise and improve consent in Barnardo’s
+* How do we use the consent builder to standardise and improve consent in Barnardo’s
  of consent
- * Processes differ across department
- * What should the whole research journey be for Barnardo’s?
- * What’s the business case and potential audience
- * Open up the tool to other charities?
+* Processes differ across department: what should the whole research journey be for Barnardo’s?
+* What’s the business case and potential audience
+* Open up the tool to other charities?
  
 
 
