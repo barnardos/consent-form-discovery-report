@@ -4,14 +4,18 @@ title: prototyping
 ---
 
 # Prototyping:
-### Paper Prototypes
+During the discovery phase, the team developed a range of prototypes that allowed it to:
 
-### Clickable prototype
+* clarify emergent thinking;
+* learn how to use new tools; and
+*  validate early ideas as to how the consent form builder might be built. 
 
-### Process Map
-<< will hold up paper>>
-### Low-fidelity prototypes!
 
-### Sketch!
+### 1. Paper Prototypes
 
-### Marvel!
+
+### 2. Clickable prototype
+
+https://marvelapp.com/25jdjh3/screen/30033830
+
+
