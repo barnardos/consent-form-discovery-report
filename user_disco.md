@@ -2,7 +2,11 @@
 layout: page
 title: user research and prioritisation
 ---
-# Discovery research on users:
+# Defining who our users are:
+
+During discovery research was carried to define users. It was eventaully decided that it was most intuitive to define users by their roles in the organisation (e.g. a participation worker) than by their role in the recruitment process. Early research into types of users can be found [here](https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design)
+
+Users were defined as follows:
 
 ## Internal users
 ### Primary: 
@@ -17,47 +21,3 @@ title: user research and prioritisation
 ## External users
 - People taking part in research
 - People giving consent on behalf of a child or young person
-
-## Decision:
-Forgo ‘recruiter’ process personas, for roles people recognise themselves in - e.g.  “as a participation worker”
-https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design 
-
-# User-testing with prototypes:
-6 x interviews and testing sessions with internal users
-
-## Research with:
-- 2 x Reseach Evaluation and Impact Team members
-- 1 Participation lead
-- 1 Marketing lead
-- 2 x Policy workers
-
-All insights shared and collected on 1 trello board
-https://trello.com/b/Xq7VPkqJ/consent-form-usability-testing 
-
-6 x interviews and testing sessions with internal users6 x interviews and testing sessions with internal users
-
-## Quotes
-*"I don't know who my participants are"*
-
-*"At the first stage of consent I don’t know who anyone’s name is"*
-
-*"Use language for a 12 year old"*
-
-*"This will print out a form?"*
-
-*"We don’t do research" *
-
-## Key commonalities between users:
-
-- Like prepopulation of form
-- Flow is still not intuitive (title / description)
-- Unlikely to know who users are ahead of time 
-
-
-## Key differences
-- Researcher vs. non-researcher language
-- Some users will not necessarily see themselves as ‘doing research’
-
-
-
-
