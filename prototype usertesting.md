@@ -16,8 +16,7 @@ Research was carried out with:
 - 1 Marketing lead
 - 2 x Policy workers
 
-All insights were shared and collected on a [trello board]
-(https://trello.com/b/Xq7VPkqJ/consent-form-usability-testing )
+All insights were shared and collected on a [trello board](https://trello.com/b/Xq7VPkqJ/consent-form-usability-testing )
 
 ## Key commonalities between users:
 
