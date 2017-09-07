@@ -1,26 +1,4 @@
-<header id="js-header">
-  <h1 class="site--title" id="js-title">{{site.title}}<span class="site--title--indicator"><img src="/{{site.baseurl}}/assets/images/indicator.png" /></h1>
-  <nav>
-    <ul>
-      <li class="js-nav" id="js-nav">
-      {% for post in site.categories['principles'] limit:1 %}
-      <a {% if page.category == 'principles' %} class="active"{% endif %} href="{{ post.url }}" >Principles</a>
-      {% endfor %}
-      </li>
-      <li class="js-nav">
-      {% for post in site.categories['content'] limit:1 %}
-      <a {% if page.category == 'content' %} class="active"{% endif %} href="{{ post.url }}">Content</a></li>
-      {% endfor %}
-      <li class="js-nav">
-        {% for post in site.categories['elements'] limit:1 %}
-        <a {% if page.category == 'elements' %} class="active"{% endif %} href="{{ post.url }}">Elements</a>
-        {% endfor %}
-      </li>
-    </ul>
-  </nav>
-  <div class="logo">
-    <img class="" src="/{{site.baseurl}}/assets/images/barnardos-logo.png" alt="Barnardos" /> 
-  </div>
-  
+<header>
+  <h1 class="site--title">{{site.title}}</h1>
 </header>
 
