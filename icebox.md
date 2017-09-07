@@ -2,7 +2,7 @@
 ---
 layout: page 
 title: Icebox
-order 5
+order: 5
 ---
 
 # Icebox
