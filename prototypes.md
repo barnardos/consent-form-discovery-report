@@ -19,8 +19,6 @@ Using Marvel and Sketch tools, the team created a clickable low-fildelity protot
 
 This type of prototype looks 'real', in that it consists of connected screens that you can navigate through by clicking icons and buttons.
 
-### 2. Clickable prototype
-
 ![Clickable Prototype](/discovery/assets/images/marvel.png "Creating clickable prototypes using Marvel")
 
 You can play with it [here](https://marvelapp.com/25jdjh3/screen/30033830)
