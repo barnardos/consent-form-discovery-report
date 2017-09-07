@@ -1,7 +1,7 @@
 ---
 layout: page
 title: user research and prioritisation
-oder: 2.5
+order: 2.5
 ---
 # Defining who our users are:
 
