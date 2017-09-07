@@ -1,21 +1,24 @@
 ---
 layout: page
-title: Changes
+title: Alpha changes
+order: 7
 ---
-# Copy
+
+During Alpha, the key changes to the tool were in the following three categories:  
+# 1. Copy
 * Testing
 * Validation with staff
 * Used hemingway app to ensure reading age is under 9 year’s old
 * Different version of consent form copy
 
-# Form
+# 2. Form
 
 * Added breadcrumbs as flow unclear
 * Order wrong so did card sortwith digital team (sheet in drive)
 * Broke down whole information sheet into sections. * 
 * Distinguished between static and changeable content
 
-# Conceptual changes
+# 3. Conceptual changes
 * What is the consent age
 	* It depends - changed to can they consent themselves
 * What is the data policy
