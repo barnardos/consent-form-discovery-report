@@ -1,6 +1,6 @@
 ---
 layout: page
-title: user research and prioritisation
+title: Users?
 order: 2.5
 ---
 # Defining who our users are:
