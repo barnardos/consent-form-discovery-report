@@ -3,7 +3,7 @@ layout: page
 title: Work so far
 order: 2
 ---
-This is a working list that will expand as work is completed. 
+*This is a working list that will expand as work is completed.* 
 
 ## Work to date
 
