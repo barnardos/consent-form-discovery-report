@@ -1,5 +1,7 @@
 --- 
-layout: page title: User-testing with prototypes
+layout: page 
+title: User-testing with prototypes
+order: 4
 ---
 
 # User-testing with prototypes:
