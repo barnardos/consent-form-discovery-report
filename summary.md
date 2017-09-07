@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Consent Form Builder Discovery Summary
+order: 1
 ---
 ## Background 
 The team identified problems with Barnardo's processes for developing consent forms. These included the amount of time spent filling in forms, unfriendly language and the lack of an easy storage and management system.
