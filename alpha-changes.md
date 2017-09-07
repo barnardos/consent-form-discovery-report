@@ -15,7 +15,7 @@ During Alpha, the key changes to the tool were in the following three categories
 
 * Added breadcrumbs as flow unclear
 * Order wrong so did card sort with digital team (sheet in drive)
-* Broke down whole information sheet into sections. * 
+* Broke down whole information sheet into sections. 
 * Distinguished between static and changeable content
 
 ### 3. Conceptual changes
