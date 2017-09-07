@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Changes
+order: 11
 ---
 # Copy
 * Testing
