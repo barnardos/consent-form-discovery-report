@@ -4,9 +4,7 @@ title: Alpha
 order: 6
 ---
 
-#ALPHA
-
-During Alpha, the digital team operationalised all findings from the Discovery phase that were useful in creating a first consent-form-builder tool that was useful for the 'priority' users: REIT, policy and the digital team.
+During Alpha, the digital team operationalised all findings from the Discovery phase aimed at creating a first consent-form-builder tool that was useful for the 'priority' users: REIT, policy and the digital team.
 
 The 'Alpha' phase of the consent-form builder has been the first example of handing a project over between the service design and product teams.
 
