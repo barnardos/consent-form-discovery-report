@@ -1,4 +1,8 @@
 ---
+layout: page
+title: Documentation
+order:30
+---
 
 
 # Documentation!
