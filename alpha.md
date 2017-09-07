@@ -27,7 +27,7 @@ The [tool](https://consent-form.barnardos.digital) went through two main iterati
  * Make it clear you’re only building a consent form
  * Language simplified 
  * Removed the need to add participants as consent and information sheets are often created before workers know who the participants are 
- * Information sheet dsiplayed in way that makes it clear what fields have been edited
+ * Information sheet displayed in a way that makes it clear what fields have been edited
 
 ### Sprint X:
  * Added date on the consent form
