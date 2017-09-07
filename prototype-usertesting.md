@@ -13,7 +13,7 @@ The clickable prototypes were tested with six users. We were looking for:
 
 Research was carried out with:
 
-- 2 x Reseach Evaluation and Impact Team members
+- 2 x Research Evaluation and Impact Team members
 - 1 Participation lead
 - 1 Marketing lead
 - 2 x Policy workers
