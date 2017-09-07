@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: User-testing with prototypes
+title: User testing
 order: 4
 ---
 
@@ -35,6 +35,7 @@ All insights were shared and collected on a [trello board](https://trello.com/b/
 - Similarily, as some users will not necessarily see themselves as ‘doing research’ it is neccessary to have a workflow that did not alienate them
 
 ## Some key quotes
+
 *"I don't know who my participants are"*
 
 *"At the first stage of consent I don’t know who anyone’s name is"*
