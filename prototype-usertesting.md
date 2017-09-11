@@ -22,32 +22,25 @@ All insights were shared and collected on a [trello board](https://trello.com/b/
 
 ## Key commonalities between users:
 
-- Users liked the automated prepopulation of the consent form and information sheet
-- Users did not find the flow of te form builder intutive
+- Users liked the automated pre-population of the consent form and information sheet
+- Users did not find the flow of the form builder intuitive
 - Users were unlikely to know who their research participants or participation attendees were ahead of time 
-
 
 ## Key differences
 
 
 * Some users intuitively used the sidebar for navigation, others did not
 - Not everyone using the form builder would see themselves as a researcher, so some found more 'researcher-y' language unclear
-- Similarily, as some users will not necessarily see themselves as ‘doing research’ it is neccessary to have a workflow that did not alienate them
+- Similarly, as some users will not necessarily see themselves as ‘doing research’ it is necessary to have a workflow that did not alienate them
 
 ## Some key quotes
 *"I don't know who my participants are"*
 
 *"At the first stage of consent I don’t know who anyone’s name is"*
 
-*"Use language for a 12 year old"*
+*"Use language for a 12-year-old"*
 
 *"This will print out a form? Great!"*
 
 *"We don’t do research"*
-
-
-
-
-
-
 
