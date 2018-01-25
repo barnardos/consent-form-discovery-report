@@ -9,15 +9,15 @@ During discovery research was carried to define users. It was eventaully decided
 
 Users were defined as follows:
 
-  ### Primary internal users:
+### Primary internal users:
   - People in Barnardo’s doing research
   - Policy, REIT, digital
   - People in Barnardo’s doing ‘participation’
 
-  ### Other internal users:
+### Other internal users:
   - Fundraising (140 requested visits in 3 months) 
   - Marketing, media & comms
 
-  ### External users
+### External users
   - People taking part in research
   - People giving consent on behalf of a child or young person
