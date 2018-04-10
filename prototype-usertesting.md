@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: User-testing with prototypes
+title: User-testing prototypes
 order: 4
 ---
 
@@ -28,19 +28,19 @@ All insights were shared and collected on a [trello board](https://trello.com/b/
 
 ## Key differences
 
-
-* Some users intuitively used the sidebar for navigation, others did not
+- Some users intuitively used the sidebar for navigation, others did not
 - Not everyone using the form builder would see themselves as a researcher, so some found more 'researcher-y' language unclear
 - Similarly, as some users will not necessarily see themselves as ‘doing research’ it is necessary to have a workflow that did not alienate them
 
 ## Some key quotes
-*"I don't know who my participants are"*
 
-*"At the first stage of consent I don’t know who anyone’s name is"*
+> *"I don't know who my participants are"*
 
-*"Use language for a 12-year-old"*
+> *"At the first stage of consent I don’t know who anyone’s name is"*
 
-*"This will print out a form? Great!"*
+> &"Use language for a 12-year-old"*
 
-*"We don’t do research"*
+> *"This will print out a form? Great!"*
+
+> *"We don’t do research"*
 

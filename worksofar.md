@@ -3,11 +3,12 @@ layout: page
 title: Work so far
 order: 2
 ---
+
+# Work to date
+
 *This is a working list that will expand as work is completed.* 
 
-## Work to date
-
-### Discovery:
+## Discovery:
 
 * Identified users
 * Paper prototypes
@@ -15,7 +16,7 @@ order: 2
 * Marvel prototypes and iteration
 * User testing 
 
-### Alpha:
+## Alpha:
 
 * Sprint 0
 * Sprint X

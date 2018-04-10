@@ -4,6 +4,8 @@ title: Alpha
 order: 6
 ---
 
+# Alpha phase
+
 During Alpha, the digital team operationalised all findings from the Discovery phase aimed at creating a first consent-form-builder tool that was useful for the 'priority' users: REIT, policy and the digital team.
 
 The 'Alpha' phase of the consent-form builder has been the first example of handing a project over between the service design and product teams.
@@ -13,14 +15,13 @@ This has involved changes to working practices, as well as changes to the overal
 ## Changes to working practices
 
 ### Turning user stories into Cucumber
-<<Niklas: two words on this?>>
+<< Veronique can addd a paragraph on this >>
 
 ### Different approach to Trello
-<<Niklas?>>
-From Old user needs and stories board https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design to https://trello.com/b/6vlAUkPe/product-team-consent-form 
+As the work changed in nature moving from research to prototyping and build of an actual product, we moved from the old [user needs and stories board](https://trello.com/b/QTNcy2kO/consent-form-builder-research-and-design) to a [product focused board](https://trello.com/b/6vlAUkPe/product-team-consent-form) outlining the user stories. You can read about [how the product team write their trello cards here](https://barnardos.github.io/team-handbook/trello-cards).
 
 ## Evolution of the tool:
-The [tool](https://consent-form.barnardos.digital) went through two main iterations in this phase
+The [consent form tool](https://consent-form.barnardos.digital) went through two main iterations in this phase
 
 ### Sprint 0: 
  * Added photos to recording methods
